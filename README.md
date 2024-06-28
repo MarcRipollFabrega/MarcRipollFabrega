@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, me llamo Marc Ripoll</h1>
+<h1 align="center">Hola 👋, me llamo Marc Ripoll</h1>
 <h3 align="center">Apasionado del Frontend, diseño 3d y videojuegos</h3>
 
 - 💬 Puedes preguntarme sobre **HTML, CSS, Javascript, Processing, Arduino**
